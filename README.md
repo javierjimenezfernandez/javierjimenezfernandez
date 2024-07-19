@@ -4,6 +4,8 @@
 
 ### I am an industrial engineer and 42 student from Spain
 
+![totoro](https://github.com/user-attachments/assets/3991a5ee-9076-482b-8761-2b4b28703603)
+
 <!--
 **javierjimenezfernandez/javierjimenezfernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
