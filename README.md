@@ -28,11 +28,9 @@ Here are some ideas to get you started:
 </div>
 
 ## :fire: Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierjimenezfernandez&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=javierjimenezfernandez&show_icons=true&locale=en" alt="Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierjimenezfernandez&" alt="Streak" /></p>
-
+<p align="center">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierjimenezfernandez&show_icons=true&locale=en&layout=compact" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=javierjimenezfernandez&show_icons=true&locale=en" />
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierjimenezfernandez&" />
+</p>
 </div>
