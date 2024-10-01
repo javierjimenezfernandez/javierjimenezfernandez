@@ -2,7 +2,7 @@
 
 # Hi there! :wave: It's me, Javier
 
-### I am an industrial engineer and 42 student from Spain
+### I am an industrial engineer in automation and electronics and 42 student from Spain
 
 ![totoro](https://github.com/user-attachments/assets/3991a5ee-9076-482b-8761-2b4b28703603)
 
